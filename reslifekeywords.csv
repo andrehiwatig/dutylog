@@ -1,0 +1,66 @@
+Keys,Values
+wellness_check,welfare
+wellness_check,wellness
+wellness_check,check-in
+wellness_check,wellbeing
+alarm,alarm
+alarm,gas
+alarm,fire
+nonaffiliate,transient
+nonaffiliate,stranger
+nonaffiliate,suspicious
+nonaffiliate,nonaffiliate
+nonaffiliate,unauthorized
+nonaffiliate,affiliate
+nonaffiliate,unaffiliated
+nonaffiliate,non-affiliate
+nonaffiliate,non-affiliated
+nonaffiliate,not ucla affiliated
+noise,noise
+noise,disruptive
+noise,loud
+consultation,consult
+consultation,consultation
+consultation,consulted
+ems,ems
+ems,transport
+ems,EMS
+maintenance,elevator
+maintenance,entrapment
+maintenance,maintenence
+maintenance,malfunctioning
+maintenance,maintenance
+maintenance,housekeeping
+room_conflict,conflict
+room_conflict,roommate
+substance,intoxicated
+substance,marijuana
+substance,smoking
+substance,alcohol
+substance,drugs
+substance,drunk
+substance,high
+escort,escort
+escort,escorted
+mental_health,suicide
+mental_health,suicidal
+mental_health,distressed
+mental_health,distress
+mental_health,self-harm
+mental_health,self harm
+sexual,sexual
+sexual,title
+emergency_room_transfer,transfer
+emergency_room_transfer,emergency
+emergency_room_transfer,room transfer
+basketball,basketball
+basketball,courts
+ucpd,ucpd
+ucpd,UCPD
+covid,isolation
+covid,isolated
+covid,mask
+covid,masks
+resident_concern,resident concern
+resident_concern,concerned resident
+scooter,scooter
